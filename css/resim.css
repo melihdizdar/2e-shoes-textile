@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.pic{
+    float:left;
+    height: 153px;
+    width: 153px;
+    margin: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
+    box-shadow: 0 0 10px rgba(0,0,0,.3);
+}
+
+.pic>img{
+    height:153px;
+    width:153px;
+    
+    -webkit-transition:all 1s ease;
+    -moz-transition:all 1s ease;
+    -o-transition:all 1s ease;
+    -ms-transition:all 1s ease;
+    transition:all 1s ease;
+}
+
+.pic>img:hover{
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);             
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg)
+}

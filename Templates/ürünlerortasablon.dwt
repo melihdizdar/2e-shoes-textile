@@ -1,0 +1,416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>2e Ayakkabı Tekstil</title>
+<!-- TemplateEndEditable -->
+<link href="../css/css.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="SHORTCUT ICON" href="../pictures/logoai.ico">
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+
+
+
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+</head>
+
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th align="right" valign="middle" scope="col"><img src="../pictures/iletisim.png" alt="" width="1097" height="15" /></th>
+  </tr>
+  <tr>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center"><table width="425" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <th width="213" align="right" scope="col"><a href="../index.html"><img src="../pictures/sitelogo2.png" alt="" width="396" height="90" /></a></th>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <th width="128" height="35" align="right" scope="col"><ul id="MenuBar1" class="MenuBarHorizontal">
+          <li><a href="../index.html">Anasayfa</a></li>
+        </ul></th>
+        <th width="26" scope="col"><img src="../pictures/cizgi.png" alt="" width="19" height="42" /></th>
+        <th width="128" scope="col"><ul id="MenuBar2" class="MenuBarHorizontal">
+          <li><a href="../html/ürünler.html" class="MenuBarItemSubmenu">&Uuml;r&uuml;nler</a>
+            <ul>
+              <li><a href="../html/ayakkabi.html" class="MenuBarItemSubmenu">Ayakkab&#305;</a>
+                <ul>
+                  <li><a href="../html/askeribot.html">Askeri Bot</a></li>
+                  <li><a href="../html/bayan.html">Bayan</a></li>
+                  <li><a href="../html/bayanguvenlikayakkabi.html">Bayan G&uuml;venlik Ayakkab&#305;</a></li>
+                  <li><a href="../html/bot.html">Bot</a></li>
+                  <li><a href="../html/celikisayakkabi.html">&Ccedil;elik &#304;&#351; Ayakkab&#305;</a></li>
+                  <li><a href="../html/celiksandalet.html">&Ccedil;elik Sandalet</a></li>
+                  <li><a href="../html/cizme.html">&Ccedil;izme</a></li>
+                  <li><a href="../html/guvenlikayakkabi.html">G&uuml;venlik Ayakkab&#305;</a></li>
+                  <li><a href="../html/klasikayakkabi.html">Klasik Ayakkab&#305;</a></li>
+                  <li><a href="../html/terlik.html">Terlik</a></li>
+                </ul>
+              </li>
+              <li><a href="../html/tekstil.html" class="MenuBarItemSubmenu">Tekstil</a>
+                <ul>
+                  <li><a href="../html/asker.html">Askeri Uniforma</a></li>
+                  <li><a href="../html/bahcivan.html">Bah&ccedil;ivan</a></li>
+                  <li><a href="../html/baret.html">Baret</a></li>
+                  <li><a href="../html/catering.html">Catering</a></li>
+                  <li><a href="../html/eldiven.html">Eldiven</a></li>
+                  <li><a href="../html/iselbise.html">&#304;&#351; Elbise</a></li>
+                  <li><a href="../html/isyelek.html">&#304;&#351; Yelek</a></li>
+                  <li><a href="../html/ige.html">&#304;&#351; G&uuml;venlik Elbise</a></li>
+                  <li><a href="../html/medical.html">Hastane Medical</a></li>
+                  <li><a href="../html/nitril.html">Nitril Eldiven</a></li>
+                  <li><a href="../html/polar.html">Polar</a></li>
+                  <li><a href="../html/sapka.html">&#350;apka</a></li>
+                  <li><a href="../html/tikac.html">T&#305;ka&ccedil;</a></li>
+                  <li><a href="../html/tshirt.html">T-Shirt</a></li>
+                  <li><a href="../html/yelek.html">Yelek</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></th>
+        <th width="26" scope="col"><img src="../pictures/cizgi.png" alt="" width="19" height="42" /></th>
+        <th width="128" scope="col"><ul id="MenuBar3" class="MenuBarHorizontal">
+          <li><a href="../html/hakkimizda.html">Hakk&#305;m&#305;zda</a></li>
+        </ul></th>
+        <th width="26" scope="col"><img src="../pictures/cizgi.png" alt="" width="19" height="42" /></th>
+        <th width="138" scope="col"><ul id="MenuBar5" class="MenuBarHorizontal">
+          <li><a href="../html/iletisim.html">&#304;leti&#351;im</a></li>
+        </ul></th>
+</tr>
+      <tr> </tr>
+    </table></td>
+</tr>
+  <tr>
+    <td height="25"><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr> </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="19"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><!-- TemplateBeginEditable name="fotoüstresim" --><!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="19">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <th width="27%" valign="top" scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <th align="center" valign="top" scope="col"><!-- TemplateBeginEditable name="sayfa psd" -->sayfa psd<!-- TemplateEndEditable --></th>
+          </tr>
+          <tr>
+            <td align="left" valign="top"><!-- TemplateBeginEditable name="alt link" -->alt link<!-- TemplateEndEditable --></td>
+          </tr>
+        </table></th>
+        <th width="73%" align="left" valign="top" scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="100%" align="left" valign="top">&nbsp;</td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><!-- TemplateBeginEditable name="ürün ismi" --><span class="hakkimizdahead">ürün ismi</span><!-- TemplateEndEditable --></td>
+            </tr>
+          <tr>
+            <td align="center"><img src="../pictures/büyükçizgi.png" width="794" height="20" /></td>
+            </tr>
+          <tr>
+            <td align="center">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi" --><img src="../pictures/ürünler/Baret_1.jpg" alt="" width="159" height="159" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi1" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı1" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu1" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele1" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi2" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı2" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu2" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele2" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi3" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı3" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu3" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele3" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi4" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı4" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu4" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele4" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi5" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı5" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu5" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele5" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi6" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı6" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu6" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele6" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi7" -->ürün resmi<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı7" -->ürün adı<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu7" -->ürün kodu<!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele7" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi8" -->ürün resmi<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı8" -->ürün adı<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu8" -->ürün kodu<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele8" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td height="19">&nbsp;</td>
+                    </tr>
+                  </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi9" -->ürün resmi<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı9" -->ürün adı<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu9" -->ürün kodu<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele9" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    </tr>
+                  </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi10" -->ürün resmi<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı10" -->ürün adı<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu10" -->ürün kodu<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele10" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    </tr>
+                  </table></td>
+                <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün resmi11" -->ürün resmi<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün adı12" -->ürün adı<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürün kodu12" -->ürün kodu<!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td><!-- TemplateBeginEditable name="ürünü incele12" --><img src="../pictures/ürünü incele.png" alt="" width="100" height="35" /><!-- TemplateEndEditable --></td>
+                    </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table></td>
+          </tr>
+          </table></th>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr class="alttab">
+        
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td class="altalttab"><table width="70%" border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="75%" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr class="altalttab2">
+            <td width="6%" height="25">&nbsp;</td>
+            <td width="45%" align="right"><a href="../index.html">Anasayfa</a></td>
+            <td width="4%"><img src="../pictures/cizgi.png" alt="" width="21" height="25" /></td>
+            <td width="9%" align="center"><a href="../html/ürünler.html">Ürünler</a></td>
+            <td width="4%"><img src="../pictures/cizgi.png" alt="" width="21" height="25" /></td>
+            <td width="14%" align="center"><a href="../html/hakkimizda.html">Hakkımızda</a></td>
+            <td width="4%"><img src="../pictures/cizgi.png" alt="" width="21" height="25" /></td>
+            <td width="14%" align="center"><a href="../html/iletisim.html">İletişim</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="right" class="altalttab"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="98%" align="right">Tüm hakları saklıdır. Copyright 2018 © Melih Dizdar</td>
+            <td width="2%">&nbsp;</td>
+          </tr>
+        </table>
+          <br /></td>
+      </tr>
+      <tr>
+        <td align="right" class="altalttab">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr> </tr>
+    </table></td>
+  </tr>
+</table>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+var MenuBar5 = new Spry.Widget.MenuBar("MenuBar5", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+var MenuBar3 = new Spry.Widget.MenuBar("MenuBar3", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>

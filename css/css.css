@@ -1,0 +1,196 @@
+@charset "utf-8";
+.ürünadi {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #05446B;
+}
+.ürünadiv2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #0086DF;
+}
+
+
+body {
+	background-color: #ECECEA;
+	background-image: url(../pictures/bg.png);
+	background-repeat: repeat-x;
+}
+.üstiletisim {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	vertical-align: middle;
+}
+
+.anatext {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #006C95;
+}
+.hgtd {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	color: #006C95;
+}
+.alttab {
+	color: #FFF;
+	background-color: #006C95;
+}
+.altalttab {
+	color: #FFF;
+	background-color: #002C3C;
+	font-size: 14px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.tablo_1 {
+	background-color: #00ACF0;
+}
+
+.altalttab2 {
+	color: #FFF;
+	background-color: #002C3C;
+	font-size: 16px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.alttab2 {
+	font-family: "Comic Sans MS", cursive;
+	color: #FFF;
+}
+.alttab3 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	text-align: left;
+}
+.alttab4 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #FFF;
+	text-align: right;
+}
+a {
+	color: #FFF;
+	font-size: 16px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+a:hover {
+	color: #0093CA;
+	font-size: 16px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.iletisimbilg {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #00222F;
+}
+.iletisimbas {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #00749F;
+	font-size: 20px;
+	font-weight: bold;
+}
+.iletisimbas2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #003E55;
+	font-size: 14px;
+}
+
+.hakkimizdahead {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #0F5980;
+	font-style: normal;
+}
+.hakkimizdatext {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #0A3558;
+}
+.tablo {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+.center {
+	text-align: center;
+}
+.alignright {
+	text-align: right;
+}
+.pic1{
+    float:left;
+    height: 128px;
+    width: 130px;
+    margin: 20px;
+    overflow: hidden;
+    background-image:url('../pictures/hizmet2.png');
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 0px rgba(0,0,0,.3);
+    box-shadow: 0 0 0px rgba(0,0,0,.0);
+}
+
+.pic1>img{
+    height:128px;
+    width:130px;
+}
+.pic1>img:hover{
+    opacity:0;
+}
+.pic2{
+    float:left;
+    height: 128px;
+    width: 130px;
+    margin: 20px;
+    overflow: hidden;
+    background-image:url('../pictures/güven2.png');
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 0px rgba(0,0,0,.3);
+    box-shadow: 0 0 0px rgba(0,0,0,.0);
+}
+
+.pic2>img{
+    height:128px;
+    width:130px;
+}
+
+.pic2>img:hover{
+    opacity:0;
+}
+.pic3{
+    float:left;
+    height: 128px;
+    width: 130px;
+    margin: 20px;
+    overflow: hidden;
+    background-image:url('../pictures/tasarım2.png');
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 0px rgba(0,0,0,.3);
+    box-shadow: 0 0 0px rgba(0,0,0,.0);
+}
+
+.pic3>img{
+    height:128px;
+    width:130px;
+}
+
+.pic3>img:hover{
+    opacity:0;
+}
+.pic4{
+    float:left;
+    height: 128px;
+    width: 130px;
+    margin: 20px;
+    overflow: hidden;
+    background-image:url('../pictures/dayan2.png');
+    border-radius: 10px;
+}
+
+.pic4>img{
+    height:128px;
+    width:130px;
+}
+
+.pic4>img:hover{
+    opacity:0;
+}
